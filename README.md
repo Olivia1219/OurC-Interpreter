@@ -1,2 +1,2 @@
-# PAL
-C語言的簡易直譯器
+# OurC Interpreter
+C語言直譯器
