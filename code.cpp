@@ -176,10 +176,6 @@ void AddConEndOP( vector<LabelOfToken>& splitTokenList ) ;
 
 int main()
 {
-  int uTestNum = 0 ;
-  cin >> uTestNum ; // get the file number for debugging
-  cin.get() ; // get the '\n'
-
   gQuit = false ;
 
   cout << "Our-C running ..." << endl ;
@@ -3662,6 +3658,7 @@ string EvalTwoOp( string op, string strLeft, string strRight )
 } // EvalTwoOp()
 
 string AssignValue( string op, string strLeft, string strRight )
+// assign the value for gMapVer
 {
   string strValue = "" ;
 
