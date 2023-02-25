@@ -46,10 +46,7 @@
 * 資料結構與演算法
 
 ## 達成成果
-<video src="影片檔案網址" controls></video>
-git add .
-git commit -m "Add my video file"
-git push
+<video src="OurC_interpreter_exe_20230225.mp4" controls></video>
 
 
 
