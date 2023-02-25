@@ -46,7 +46,7 @@
 * 資料結構與演算法
 
 ## 達成成果
-<video src="C:\Users\Lucy\Desktop\大學學習歷程\S4-2\PAL\project3" controls></video>
+<video src="影片檔案網址" controls></video>
 
 
 
