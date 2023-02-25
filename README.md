@@ -47,7 +47,7 @@
 
 ## 達成成果
 <video src="OurC_interpreter_exe_20230225.mp4" controls></video>
-
+[![Alt text](https://img.youtube.com/vi/EjZyRMiBCS4/0.jpg)](https://www.youtube.com/watch?v=EjZyRMiBCS4)
 
 
 
