@@ -45,7 +45,7 @@
 * C/C++
 * 資料結構與演算法
 
-## 達成成果
+## 成果展示
 可點擊下圖觀看程式互動執行過程
 [![Alt text](https://img.youtube.com/vi/LkarqfNzHfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=LkarqfNzHfk&autoplay=1&mute=1)
 
