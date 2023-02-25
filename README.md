@@ -46,7 +46,8 @@
 * 資料結構與演算法
 
 ## 達成成果
-[![Alt text](https://img.youtube.com/vi/LkarqfNzHfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=LkarqfNzHfk)
+[![Alt text](https://img.youtube.com/vi/LkarqfNzHfk/1.jpg)](https://www.youtube.com/watch?v=LkarqfNzHfk)
+
 
 
 
